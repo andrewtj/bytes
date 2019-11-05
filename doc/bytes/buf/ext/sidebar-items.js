@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["BufExt","Extra methods for implementations of `Buf`."],["BufMutExt","Extra methods for implementations of `BufMut`."]]});
